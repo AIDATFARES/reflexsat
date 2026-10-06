@@ -100,7 +100,7 @@ export default function PricingPageContent() {
     const text = encodeURIComponent(
       `Hello! I would like to order the Reflexsat IPTV ${plan.name} plan with ${devices} device connection${devices > 1 ? "s" : ""} for $${priceFor(plan)}.`
     );
-    window.open(`https://wa.me/447882781998?text=${text}`, "_blank", "noopener,noreferrer");
+    window.open(`https://wa.me/213552069874?text=${text}`, "_blank", "noopener,noreferrer");
   }
 
   return (
@@ -239,7 +239,7 @@ export default function PricingPageContent() {
             </div>
           </div>
           <a
-            href="https://wa.me/447882781998?text=Hello,%20I%20would%20like%20to%20request%20a%20free%2024H%20trial%20for%20Reflexsat%20IPTV."
+            href="https://wa.me/213552069874?text=Hello,%20I%20would%20like%20to%20request%20a%20free%2024H%20trial%20for%20Reflexsat%20IPTV."
             target="_blank"
             rel="noreferrer"
             className="btn-whatsapp-clean px-6 py-3 text-xs uppercase tracking-wider font-extrabold whitespace-nowrap"

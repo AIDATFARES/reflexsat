@@ -210,7 +210,7 @@ export default function ChannelsPage() {
                 View Subscription Plans
               </Link>
               <a
-                href="https://wa.me/447882781998?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
+                href="https://wa.me/213552069874?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
                 target="_blank"
                 rel="noreferrer"
                 className="btn-whatsapp-clean px-8 py-3.5 text-xs sm:text-sm font-extrabold uppercase tracking-wider"

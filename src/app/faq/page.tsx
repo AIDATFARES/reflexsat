@@ -172,7 +172,7 @@ const faqs: FAQItem[] = [
     question: "1. Does Reflexsat IPTV offer a free trial?",
     answer: (
       <>
-        Yes, we offer a <a href="https://wa.me/447882781998?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV." target="_blank" rel="noreferrer" className="text-blue-600 font-semibold hover:text-blue-800 transition-colors">free 24-hour trial</a> so you can verify our quality before subscribing to a <Link href="/pricing" className="text-blue-600 font-semibold hover:text-blue-800 transition-colors">full plan</Link>.
+        Yes, we offer a <a href="https://wa.me/213552069874?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV." target="_blank" rel="noreferrer" className="text-blue-600 font-semibold hover:text-blue-800 transition-colors">free 24-hour trial</a> so you can verify our quality before subscribing to a <Link href="/pricing" className="text-blue-600 font-semibold hover:text-blue-800 transition-colors">full plan</Link>.
       </>
     ),
   },
@@ -210,7 +210,7 @@ export default function FAQ() {
     const subject = String(formData.get("subject") || "General support").trim();
     const message = String(formData.get("message") || "").trim();
     const text = encodeURIComponent(`Hello Reflexsat IPTV support,\n\nName: ${name}\nEmail: ${email}\nSubject: ${subject}\n\n${message}`);
-    window.open(`https://wa.me/447882781998?text=${text}`, "_blank", "noopener,noreferrer");
+    window.open(`https://wa.me/213552069874?text=${text}`, "_blank", "noopener,noreferrer");
   }
 
   return (
@@ -304,7 +304,7 @@ export default function FAQ() {
               <span className="font-bold text-sm text-slate-900">Email Us</span>
               <span className="text-xs text-blue-600 font-semibold mt-1 break-all">support@reflexsat-iptv4k.shop</span>
             </a>
-            <a className="flex flex-col items-center justify-center rounded-2xl border border-slate-200 bg-slate-50 p-6 text-center hover:bg-white hover:border-emerald-300 transition-all" href="https://wa.me/447882781998?text=Hello%20Reflexsat%20IPTV%20support%2C%20I%20need%20help." rel="noreferrer" target="_blank">
+            <a className="flex flex-col items-center justify-center rounded-2xl border border-slate-200 bg-slate-50 p-6 text-center hover:bg-white hover:border-emerald-300 transition-all" href="https://wa.me/213552069874?text=Hello%20Reflexsat%20IPTV%20support%2C%20I%20need%20help." rel="noreferrer" target="_blank">
               <span className="w-12 h-12 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center mb-3"><MessageCircle className="h-5 w-5" /></span>
               <span className="font-bold text-sm text-slate-900">WhatsApp Desk</span>
               <span className="text-xs text-emerald-600 font-bold mt-1">Start Live Chat &rarr;</span>

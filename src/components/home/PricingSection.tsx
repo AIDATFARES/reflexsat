@@ -73,7 +73,7 @@ export default function PricingSection() {
     const text = encodeURIComponent(
       `Hello! I would like to order the Reflexsat IPTV ${plan.name} plan with ${devices} device connection${devices > 1 ? "s" : ""} for $${priceFor(plan)}.`
     );
-    window.open(`https://wa.me/447882781998?text=${text}`, "_blank", "noopener,noreferrer");
+    window.open(`https://wa.me/213552069874?text=${text}`, "_blank", "noopener,noreferrer");
   }
 
   return (

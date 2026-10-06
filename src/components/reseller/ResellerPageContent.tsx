@@ -146,7 +146,7 @@ export default function ResellerPageContent() {
       ? `Hello! I would like to order the Reflexsat IPTV Reseller Panel with ${plan.credits} Credits for $${plan.price}.`
       : `Hello! I am interested in becoming a Reflexsat IPTV Reseller and would like to request panel access.`;
     window.open(
-      `https://wa.me/447882781998?text=${encodeURIComponent(message)}`,
+      `https://wa.me/213552069874?text=${encodeURIComponent(message)}`,
       "_blank",
       "noopener,noreferrer"
     );
@@ -155,7 +155,7 @@ export default function ResellerPageContent() {
   const handleFreeTrial = () => {
     const message = `Hello! I am interested in testing a Reflexsat IPTV Reseller Panel demo.`;
     window.open(
-      `https://wa.me/447882781998?text=${encodeURIComponent(message)}`,
+      `https://wa.me/213552069874?text=${encodeURIComponent(message)}`,
       "_blank",
       "noopener,noreferrer"
     );

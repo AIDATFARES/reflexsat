@@ -47,11 +47,11 @@ export default function Contact() {
               Fastest response time for instant setups &amp; free trials.
             </p>
             <p className="text-xs font-bold text-emerald-700 font-mono mb-3">
-              +44 7882 781998
+              +213 552 06 98 74
             </p>
             <a
               className="btn-whatsapp-clean inline-flex items-center gap-2 px-6 py-2.5 text-xs font-bold uppercase tracking-wider"
-              href="https://wa.me/447882781998?text=Hello,%20I%20need%20support%20for%20Reflexsat%20IPTV."
+              href="https://wa.me/213552069874?text=Hello,%20I%20need%20support%20for%20Reflexsat%20IPTV."
               target="_blank"
               rel="noreferrer"
             >
@@ -83,7 +83,7 @@ export default function Contact() {
               const subject = (form.elements.namedItem('subject') as HTMLInputElement)?.value || '';
               const msg = (form.elements.namedItem('message') as HTMLTextAreaElement)?.value || '';
               const prompt = `Hello Reflexsat support,\n\nName: ${name}\nSubject: ${subject}\n\n${msg}`;
-              window.open(`https://wa.me/447882781998?text=${encodeURIComponent(prompt)}`, "_blank");
+              window.open(`https://wa.me/213552069874?text=${encodeURIComponent(prompt)}`, "_blank");
             }}>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                 <div className="flex flex-col gap-1.5">

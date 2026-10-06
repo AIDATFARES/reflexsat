@@ -81,7 +81,7 @@ export default function Navbar() {
             View Plans
           </Link>
           <a
-            href="https://wa.me/447882781998?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
+            href="https://wa.me/213552069874?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
             target="_blank"
             rel="noreferrer"
             className="btn-whatsapp-clean px-5 py-2.5 text-xs uppercase tracking-wider font-bold inline-flex items-center gap-2"
@@ -134,7 +134,7 @@ export default function Navbar() {
           </nav>
           <div className="pt-3 border-t border-slate-100 flex flex-col gap-2.5">
             <a
-              href="https://wa.me/447882781998?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
+              href="https://wa.me/213552069874?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
               target="_blank"
               rel="noreferrer"
               className="btn-whatsapp-clean text-center py-3 text-sm flex items-center justify-center gap-2"

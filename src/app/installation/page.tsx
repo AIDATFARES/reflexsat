@@ -129,7 +129,7 @@ export default function Installation() {
         <div className="mt-6 flex justify-center gap-4">
           <a
             className="btn-whatsapp-clean px-7 py-3 text-xs font-bold uppercase tracking-wider"
-            href="https://wa.me/447882781998?text=Hello,%20I%20need%20help%20setting%20up%20Reflexsat%20IPTV%20on%20my%20device."
+            href="https://wa.me/213552069874?text=Hello,%20I%20need%20help%20setting%20up%20Reflexsat%20IPTV%20on%20my%20device."
             target="_blank"
             rel="noreferrer"
           >

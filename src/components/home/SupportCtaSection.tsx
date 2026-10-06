@@ -33,7 +33,7 @@ export default function SupportCtaSection() {
         <div className="flex shrink-0 flex-col gap-3 w-full sm:w-auto">
           <a
             className="btn-whatsapp-clean px-6 py-3.5 text-xs uppercase tracking-wider font-extrabold inline-flex items-center justify-center gap-2 text-center"
-            href="https://wa.me/447882781998?text=Hello,%20I%20have%20a%20question%20about%20Reflexsat%20IPTV."
+            href="https://wa.me/213552069874?text=Hello,%20I%20have%20a%20question%20about%20Reflexsat%20IPTV."
             rel="noreferrer"
             target="_blank"
           >

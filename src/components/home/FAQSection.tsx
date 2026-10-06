@@ -38,7 +38,7 @@ const faqs: FAQ[] = [
       <>
         Yes! We provide a free 24-hour trial so you can experience our stream quality, server speed, and channel selection firsthand. You can{" "}
         <a
-          href="https://wa.me/447882781998?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
+          href="https://wa.me/213552069874?text=Hello,%20I%20would%20like%20to%20request%20a%20free%20trial%20for%20Reflexsat%20IPTV."
           target="_blank"
           rel="noreferrer"
           className="text-blue-600 font-bold underline hover:text-blue-800"
